@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AuthHuaweiAndGoogle</string>
+    <string name="login_by_h">Login By Huawei</string>
+    <string name="login_by_g">Login By Google</string>
+
+    <string name="welcome_to_appauth">Welcome to Huawei and Google Auth Demo project on HMS phones</string>
+    <string name="make_api_call">Make API Call</string>
+    <string name="make_authorization_request">Make Authorization Request</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="request_complete">API Call Successful.</string>
+    <string name="request_failed">API Call Failed.</string>
+
+    <!-- tools -->
+    <string name="tools_given_name">Some FirstName</string>
+    <string name="tools_family_name">LastName</string>
+    <string name="tools_full_name">Some FirstName LastName</string>
+    <string name="login_hint_title">Login Hint</string>
+    <string name="login_hint_description">This key will allow you to send a
+        login hint to the identity provider such as email or username</string>
+    <string name="restrictions_pending_block_user">This application is
+        waiting for further configuration details and cannot continue
+        to run. Please contact your IT admin for further details</string>
+
+    <!-- HWID -->
+    <string name="hw_id">HuaweiId</string>
+    <string name="hw_pay">HuaweiPay</string>
+    <string name="hw_push">HuaweiPUSH</string>
+    <string name="hw_sns">HuaweiSns</string>
+    <string name="hw_location">HuaweiLocation</string>
+    <string name="hw_opendevice">HuaweiOpendevice</string>
+    <string name="hw_ppskit">HuaweiPpskit</string>
+    <string name="hw_game">HuaweiGame</string>
+    <string name="sample_description">Huawei Account Kit Demo</string>
+    <string name="sample_hwid_description">Huawei Account Usage Process</string>
+    <string name="hwid_sign_in">ID-Token Mode Signln</string>
+    <string name="hwid_sign_out">SignOut</string>
+    <string name="hwid_revokeAccess">AuthorizationCode Mode Signln</string>
+
+</resources>
